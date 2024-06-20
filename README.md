@@ -1,1 +1,3 @@
-# task2
+Basic project
+Task 2
+Number Guessing game
